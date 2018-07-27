@@ -1,0 +1,6 @@
+
+*.RDS
+
+project_cache/
+
+\.Rproj\.user/
